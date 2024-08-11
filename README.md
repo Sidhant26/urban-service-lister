@@ -27,3 +27,7 @@ This platform enables users to easily book a variety of low-skilled services. Wi
 * Authentication: JSON Web Tokens (JWT)
 * Payment Processing: Razorpay API
 * Sentiment Analysis: Integrated into the review system to assess customer feedback.
+
+![Urban 1](https://github.com/user-attachments/assets/292994a5-6267-4e13-a919-def937a69a73)
+![Urban 2](https://github.com/user-attachments/assets/a89a2c19-c58b-4125-8e2f-1e4b710164f4)
+![Urban 4](https://github.com/user-attachments/assets/0e59aeb2-8907-442f-936a-b1abda441cb5)
